@@ -1,2 +1,14 @@
 # vue-adopt-pet
-Vue beginner adopt a pet app
+
+## Project setup
+```
+npm install
+```
+
+```
+npm run serve
+```
+
+```
+npm run build
+```
